@@ -1,0 +1,2 @@
+# musico
+electron react redux
